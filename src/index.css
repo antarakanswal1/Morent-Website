@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+.about-footer{
+    margin-left: 200px;
+}
+
+.community-footer{
+    margin-left: 200px;
+}
+
+.socials-footer{
+    margin-left: 200px;
+}
+
+.iconns{
+    margin-left: 600px;
+}
+
+.flipped {
+    transform: scaleX(-1);
+  }
+
+.bg-ban1,.btn-color2{
+    background-color: #54A6FF;
+}
+
+.bg-ban2,.btn-color1{
+    background-color: #3563E9;
+}
