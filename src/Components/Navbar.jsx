@@ -4,11 +4,11 @@ import { faSearch, faFilter, faHeart, faBell, faCog, faUserCircle } from '@forta
 
 const Navbar = () => {
   return (
-    <div className="flex items-center bg-white h-16 px-4 md:px-6 mb-6">
+    <div className="flex items-center bg-white h-16 px-4 md:px-6 mb-6 mt-3">
       {/* Logo and Search Bar */}
       <div className="flex items-center space-x-3">
-        <div className="text-[#3563E9] font-bold text-3xl mt-7">MORENT</div>
-        <div className="relative w-64 md:w-96 ms-5 mt-7">
+        <div className="text-[#3563E9] font-bold text-3xl">MORENT</div>
+        <div className="relative w-64 md:w-96 ms-5">
           <input
             type="text"
             placeholder="Search something here"

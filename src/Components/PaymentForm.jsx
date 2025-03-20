@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import car2 from '../assets/car2.png'
-import Paypal from '../assets/Paypal.png'
+import Paypal from '../assets/PayPal.png'
 import Bitcoin from '../assets/Bitcoin.png'
 
 

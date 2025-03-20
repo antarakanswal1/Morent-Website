@@ -16,7 +16,8 @@ const DetailsChart = () => {
       </div>
 
       {/* Car Details */}
-      <div className="flex items-center space-x-4 border-b pb-4">
+      <div className="flex items-center 
+      space-x-4 border-b pb-4">
         <div className="w-24 h-16 bg-gray-200 rounded-lg"></div>
         <div>
           <h3 className="text-lg font-semibold">Nissan GT-R</h3>
