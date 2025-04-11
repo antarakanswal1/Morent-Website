@@ -20,7 +20,6 @@ const Details = () => {
         <div className='w-3/4 p-4'>
           <CarDetails />
       <ThreeDiv/>
-
         </div>
       </div>
 
